@@ -1,0 +1,6 @@
+BigMac(entity).
+ground-pounds(verb).
+
+BigMac sees zombie.
+BigMac ground-pounds zombie.
+Zombie explodes(verb).
