@@ -15,6 +15,6 @@ To do this __the language had to support every engish word__, not just what we p
 wrote the code to accept casting to give meaning, for example the word `Matt` isnt in the predefined lexeme so to add it you write `Matt(entity)` and
 that will allow `Matt` to be referenced in the code and have meaning.
 
-'Matt(entity) sees a zombie.
+`Matt(entity) sees a zombie.
 Matt wrecked(verb) the zombie.
-Zombie dies.'
+Zombie dies.`
